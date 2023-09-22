@@ -1,4 +1,4 @@
-console.log('✅ STARTING...')
+hiconsole.log('✅ STARTING...')
 
 import { join, dirname } from 'path'
 import { createRequire } from 'module';
@@ -16,12 +16,12 @@ const { name, author } = require(join(__dirname, './package.json')) // https://w
 const { say } = cfonts
 const rl = createInterface(process.stdin, process.stdout)
 
-say('ABHISHEK-SER', {
+say('Martha2005', {
   font: 'chrome',
   align: 'center',
   gradient: ['red', 'magenta']
 })
-say(`'${name}' By @ABHISHEK SURESH._`, {
+say(`'${name}' By @Martha2005._`, {
   font: 'console',
   align: 'center',
   gradient: ['red', 'magenta']
