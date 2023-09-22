@@ -1,9 +1,9 @@
 {
-  "name": "ABHISHEK-SER",
+  "name": "!Martha2005",
   "description": "Customizable WhatsApp Bot",
-  "repository": "https://github.com/AbhishekSuresh2/ABHISHEK-SER",
+  "repository": "https://github.com/AbhishekSuresh2/Martha2005",
   "logo": "https://replicate.delivery/pbxt/QbP6Fh3ZXwKON9SCB70ERGwwgeeSbztwKIOIzhUeXFkwnFHiA/out.png",
-  "keywords": ["bot", "whatsapp", "whatsapp-bot", "ABHISHEK-SER", "GURU-bot-md", "GURU-bot"],
+  "keywords": ["bot", "whatsapp", "whatsapp-bot", "Martha2005", "GURU-bot-md", "GURU-bot"],
   "buildpacks": [
     {
       "url": "heroku/nodejs"
